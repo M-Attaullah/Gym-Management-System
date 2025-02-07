@@ -65,7 +65,6 @@ The **Gym Management System** is a comprehensive platform designed to streamline
 ---
 
 ## 🤝 Get in Touch!
-## Get in Touch! 🤝
 Passionate about software development and problem-solving? Let’s connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/M-Attaullah) [**M-Attaullah**](https://github.com/M-Attaullah)  
