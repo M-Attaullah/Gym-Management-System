@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SignUp to GYM NATION | Pakistan's #1 Fitness Club </title>
+    <link href="signup.css" rel="stylesheet">
+</head>
+<body>
+    <div class="full-page">
+        <div class="navbar">
+            <div>
+                <h1><a href='Home.html'><img src="logo.jpg" width="100px" height="100px" alt=""></a></h1>
+            </div>
+            <nav>
+                <ul id='MenuItems'>
+                    <li><a href="Home.html">Home</a></li>
+                    <li><a href="plan.html">Plans</a></li>
+                    <li><a href="service.html">Services</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="login.html"><button>| Login</button></a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <div class="form-box">
+        <div class="header-text">Sign up</div>
+        <!-- Form starts here -->
+        <form action="server.php" method="post">
+            <input name="fullname" placeholder="FullName" type="text" required>
+            <input name="address" placeholder="Address" type="text" required>
+            <input name="phonenmbr" placeholder="PhoneNmbr" type="text" required>
+            <input name="email" placeholder="Email" type="email" required>
+            <input name="username" placeholder="Username" type="text" required>
+            <input name="password" placeholder="Password" type="password" required>
+            <input id="terms" type="checkbox" required>
+            <label for="terms"></label>
+            <span class="ab">Agree with <a href="#">Terms & Conditions</a></span><br>
+            <button type="submit">Sign up</button>
+        </form>
+        <!-- Form ends here -->        
+    </div>
+</body>
+</html>
