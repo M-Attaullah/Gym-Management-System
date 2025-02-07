@@ -65,10 +65,13 @@ The **Gym Management System** is a comprehensive platform designed to streamline
 ---
 
 ## 🤝 Get in Touch!
+## Get in Touch! 🤝
 Passionate about software development and problem-solving? Let’s connect!
 
-🔗 **GitHub Profile:** (https://github.com/M-Attaullah)
-🔗 **LinkedIn:** (https://www.linkedin.com/in/muhammad-attaullah-705764333?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkuC6JkLmQemGBWTKSQrdkg%3D%3D)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/M-Attaullah) [**M-Attaullah**](https://github.com/M-Attaullah)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-attaullah-705764333/) [**Muhammad Attaullah**](https://www.linkedin.com/in/muhammad-attaullah-705764333/)
+
 
 ---
 
