@@ -27,7 +27,7 @@ The **Gym Management System** is a comprehensive platform designed to streamline
 ### 💻 **Frontend Development**
 - Designed a clean and intuitive interface for seamless interaction.
 
-###🔧 **Backend Development**
+### 🔧 **Backend Development**
 - Built a structured **MySQL** database with key tables:
   - Users
   - Memberships
@@ -67,8 +67,8 @@ The **Gym Management System** is a comprehensive platform designed to streamline
 ## 🤝 Get in Touch!
 Passionate about software development and problem-solving? Let’s connect!
 
-🔗 **GitHub Profile:** [Your GitHub Link]
-🔗 **LinkedIn:** [Your LinkedIn Link]
+🔗 **GitHub Profile:** (https://github.com/M-Attaullah)
+🔗 **LinkedIn:** (https://www.linkedin.com/in/muhammad-attaullah-705764333?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkuC6JkLmQemGBWTKSQrdkg%3D%3D)
 
 ---
 
